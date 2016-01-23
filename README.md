@@ -1,4 +1,4 @@
-# IDPunch
+# IDPunch [![Build Status](https://travis-ci.org/javipepe/punch.svg?branch=master)](https://travis-ci.org/javipepe/punch)
 A simple plugin that tells you the id of the blocks you click / aim when having a vine in your hand. CC
 
 >*How to download:*
